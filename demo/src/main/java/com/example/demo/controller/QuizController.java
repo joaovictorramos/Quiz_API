@@ -23,6 +23,9 @@ import com.example.demo.service.QuizService;
 
 import jakarta.validation.Valid;
 
+/*
+ * Algumas explicações sobre os endpoints estão no README 
+*/
 @RestController
 @RequestMapping("/")
 public class QuizController {
